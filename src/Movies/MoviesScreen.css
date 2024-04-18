@@ -1,0 +1,29 @@
+.movies-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .movies-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .movies-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .movie-item {
+    margin-bottom: 10px;
+  }
+  
+  .movie-title {
+    font-weight: bold;
+  }
+  
+  .movie-year {
+    color: #888;
+  }
+  
