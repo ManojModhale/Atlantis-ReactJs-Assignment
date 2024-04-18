@@ -1,3 +1,35 @@
+# ReactJS Internship Assignment
+
+## Description
+This repository contains a ReactJS internship assignment project.
+
+## Instructions
+To run this project locally, follow these steps:
+
+1. Clone this repository to your local machine:
+    https://github.com/ManojModhale/Atlantis-ReactJs-Assignment.git
+
+2. Navigate to the project directory:
+
+3. Install dependencies using npm:
+
+4. Start the development server:
+
+5. Once the server is started, open your web browser and go to:
+   http://localhost:3000
+
+6. You will be directed to the login form. Use the following credentials to log in:
+ ## Credentials
+- Username: Admin10
+- Password: #Admin10
+
+7. After successful login, you will be redirected to the Google Map showing the default location of "Dagdusheth Halwai Ganpati Temple in Pune, Maharashtra".
+
+8. Below the map, you will find a routing link to the movies list page.
+
+
+
+
 
 # Getting Started with Create React App
 
